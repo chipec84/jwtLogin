@@ -1,0 +1,9 @@
+//processes.json:
+    {
+      "apps" : [{
+        "name"        : "express",
+        "script"      : "index.js",
+        "watch"       : true,
+        "log_date_format"  : "YYYY-MM-DD HH:mm Z",
+      }]
+    }
